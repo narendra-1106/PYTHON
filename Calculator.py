@@ -8,10 +8,13 @@
 
 a=10
 b=5
-print(a+b) # Addition
+print("Addition of 2 No is : " ,a+b) # Addition
 print(a-b) # Sub
 print(a*b) # Multiplication
 print(a/b) # div
 print(a//b) # Floor division
 print(a%b) # Modulus Show remender
 print(a**b) # Power 
+
+
+
