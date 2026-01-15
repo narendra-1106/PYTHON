@@ -17,7 +17,10 @@
 #     print(c)
 #     c=c-1
 
-c=1
-while(c>0):
-    print(c)
-    c=c+1
+# c=1
+# while(c>1):
+#     print(c)
+#     c=c+1
+# else:
+#     print("I am inside else")
+
