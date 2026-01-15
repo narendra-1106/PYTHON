@@ -6,6 +6,13 @@ match x:
     case 4:
         print("x is 4")
 
-    case _:  # this _ is used for default num
+    case _ if x!=90:
+        print(x, " value is not 90")
+
+    case _ if x!=80:
+        print(x, "is not 80")
+
+    case _ :  # this _ is used for default num
         print(x)
+
 
