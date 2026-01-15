@@ -24,3 +24,11 @@
 # else:
 #     print("I am inside else")
 
+#Do while loop emmulate
+
+i=1
+while True:
+   print(i)
+   i=i+1
+   if(i%100 == 0):
+      break
