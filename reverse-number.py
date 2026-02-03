@@ -6,5 +6,5 @@ while num>0:
     rev=rev*10+digit
     num//=10
 
-prin
+print("Reverse number is  :", rev)
     
